@@ -1,0 +1,115 @@
+#Session 01
+
+ - HTTP Request Response Cycle / Client Server Architecture
+ - Frontend Technology Vs. Backend Technology
+ - Introduction to HTML
+	- Demonstrate Basic html tags in VS-Code
+	- Block elements vs Inline elements
+	- Table tag
+
+---------------------------------------------------------
+
+#Session 02
+
+ - Practical Demonstration of 
+	- web Forms 
+ - Introduction to CSS
+ - Types of CSS
+ - CSS Box Model
+ - Practical Demonstration of HTML structure using CSS & Div
+
+---------------------------------------------------------
+
+#Session 03
+
+ - Semantic HTML Elements
+ - Flex box & Media query
+ - Introduction to JavaScript
+ 	- What is ECMA-Script
+	- Named Function
+	- Events 
+---------------------------------------------------------
+
+#Session 04
+ - JavaScript Fundamentals
+	- Variables
+	- Data types
+	- Hoisting
+	- Anonymous function & function expression
+	- DOM 
+	- Condition Statements
+
+---------------------------------------------------------
+
+#Session 05
+ - Loops in JavaScript
+ - Introduction to Array
+
+---------------------------------------------------------
+
+#Session 06
+ - Objects in JavaScript
+ - Introduction to React / Angular
+ - Bootstrap process of React application
+ - Component 
+
+---------------------------------------------------------
+
+#Session 07
+ - State in React
+ - Props & Managing data flow
+
+---------------------------------------------------------
+
+#Session 08
+ - Introduction to Relational Database using mysql
+	- Create database
+	- Create table
+	- primary key, Indexes
+	- Relation
+ - SQL
+	- INSERT
+	- SELECT
+	- UPDATE
+
+---------------------------------------------------------
+
+#session 09
+ - SQL
+	- DELETE
+	- JOINS
+ - Introduction to Backend Development
+ - Node.js
+ - NPM
+ - Create project using NPM
+ - package.json
+ - Introduction to API 
+
+---------------------------------------------------------
+
+#Session 10
+ - Backend JS
+ - Create Restful APIs using Express
+	- GET
+	- POST
+
+---------------------------------------------------------
+
+#Session 11
+ - Restful API for
+	- PUT
+	- PATCH
+	- DELETE
+
+---------------------------------------------------------
+
+#Session 12
+  - Authentication and security
+	- Login using JWT
+	- Access Control
+  - Best practices for securing web applications
+	- SQL injection
+	- Cross Site Scripting (XSS)
+
+
+---------------------------------------------------------
