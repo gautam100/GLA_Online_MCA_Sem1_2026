@@ -15,8 +15,8 @@
 	- web Forms 
  - Introduction to CSS
  - Types of CSS
- - CSS Box Model
- - Practical Demonstration of HTML structure using CSS & Div
+ - CSS Box Model [p]
+ - Practical Demonstration of HTML structure using CSS & Div [p]
 
 ---------------------------------------------------------
 

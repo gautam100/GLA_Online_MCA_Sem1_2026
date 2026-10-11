@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Form</title>
+    <style>
+        .color{
+            color: green;
+        }
+    </style>
+    <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+    <form name="frm1" method="post" action="">
+        <input type="email" name="user_name" id="user_name" placeholder="Enter email" style="height:20px; color:red;" required />
+        <br />
+        <input type="password" name="user_pwd" placeholder="Enter password" />
+        <br />
+        <input type="number" name="user_age" placeholder="Enter Age" class="color" />
+        <br />
+        <textarea rows="6" cols="36" name="user_addr" class="color"></textarea>
+        <br />
+         <input type="radio" name="gender" value="male" checked />Male
+        <input type="radio" name="gender" value="female" disabled />Female
+        <br />
+        <input type="checkbox" value="cooking" name="hobby" />Cooking
+        <input type="checkbox" value="gardening" name="hobby" />Gardening
+        <input type="checkbox" value="teaching" name="hobby" />Teaching
+        <br /><br />
+        <!-- <button>Submit</button> -->
+         <input type="submit" value="Submit" name="submit_btn" />
+         <input type="reset" value="Reset" />
+         <input type="button" value="Cancel" />
+    </form>
+</body>
+</html>
