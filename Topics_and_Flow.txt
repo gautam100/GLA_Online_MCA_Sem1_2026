@@ -15,15 +15,15 @@
 	- web Forms 
  - Introduction to CSS
  - Types of CSS
- - CSS Box Model [p]
- - Practical Demonstration of HTML structure using CSS & Div [p]
+ - CSS Box Model 
+ - Practical Demonstration of HTML structure using CSS & Div 
 
 ---------------------------------------------------------
 
 #Session 03
 
  - Semantic HTML Elements
- - Flex box & Media query
+ - Flex box & Media query*
  - Introduction to JavaScript
  	- What is ECMA-Script
 	- Named Function
