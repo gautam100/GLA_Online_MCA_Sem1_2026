@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <td>Enter First No</td>
+        <td><input type="number" id="first_num" /></td>
+      </tr>
+      <tr>
+        <td>Enter Second No</td>
+        <td><input type="number" id="second_num" /></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+            <button onclick="doAdd()">Add</button>
+        </td>
+      </tr>
+    </table>
+    <div id="result"></div>
+    <script>
+        /* 
+         -- Anonymous function
+         -- Function expression
+        */
+        let doAdd = function(){
+            let a = document.getElementById("first_num").value
+            let b = document.getElementById("second_num").value
+
+            let sum = parseInt(a)+parseInt(b)
+            document.getElementById("result").innerHTML = sum
+        }
+    </script>
+  </body>
+</html>
