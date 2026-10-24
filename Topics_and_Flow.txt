@@ -26,18 +26,18 @@
  - Flex box & Media query*
  - Introduction to JavaScript
  	- What is ECMA-Script
-	- Named Function
+	- Named Function 
 	- Events 
 ---------------------------------------------------------
 
 #Session 04
  - JavaScript Fundamentals
-	- Variables
+	- Variables - var | let | const
 	- Data types
-	- Hoisting
+	- Hoisting [p]
 	- Anonymous function & function expression
 	- DOM 
-	- Condition Statements
+	- Condition Statements [p]
 
 ---------------------------------------------------------
 
