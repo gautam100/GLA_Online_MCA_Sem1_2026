@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slider</title>
+    <style>
+        .slider{
+            width: 300px;
+            height: 350px;
+            border: 5px solid #000;
+        }
+        .space{
+            margin: 10px 20px;
+        }
+    </style>
+</head>
+<body onload="showImg()">
+    <div id="container" class="slider space">
+        ...
+    </div>
+    <div class="space">
+        <button onclick="prevImg()"> << prev</button>
+        <button onclick="nextImg()"> Next >> </button>
+        <span id="img_no"></span>
+    </div>
+    <script src="slider.js"></script>
+</body>
+</html>
